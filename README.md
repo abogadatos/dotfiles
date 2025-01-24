@@ -1,7 +1,7 @@
 # dotfiles
 ### Neovim Dotfiles 🖥️
 
-@nechodev Neovim configuration! These dotfiles are tailored to enhance my coding experience with powerful plugins, sleek themes, and custom keybindings. ✨
+@abogadatos Neovim configuration! These dotfiles are tailored to enhance my coding experience with powerful plugins, sleek themes, and custom keybindings. ✨
 
 #### 🚀 Features
 - Lazy-loaded Plugins: Powered by lazy.nvim for faster startup ⚡
